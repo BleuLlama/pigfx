@@ -23,6 +23,7 @@ of fun :)
 driver PiGFX now support an external USB keyboard as input device. Anything
 typed will be automatically sent to raspi UART Tx0 (pin 8, GPIO 14).
 
+
 By now this is a work in progress with a minimum set of features implemented so
 expect that more functionalities will be added from time to time.
 
